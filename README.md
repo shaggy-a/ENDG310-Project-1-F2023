@@ -24,4 +24,4 @@ Title: Data Download for Calgary
 Author: WeatherStats
 Link: https://calgary.weatherstats.ca/download.html
 
-<img src="newplot.png"></img>
+!['newplot.png'](Images/newplot.png)
